@@ -1,0 +1,17 @@
+C:\Users\gfalq\Desktop\SchoolOs\IAgents_NET\IAgent\IAgent.Infra\obj\Debug\net8.0\IAgent.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gfalq\Desktop\SchoolOs\IAgents_NET\IAgent\IAgent.Infra\obj\Debug\net8.0\IAgent.Infra.AssemblyInfoInputs.cache
+C:\Users\gfalq\Desktop\SchoolOs\IAgents_NET\IAgent\IAgent.Infra\obj\Debug\net8.0\IAgent.Infra.AssemblyInfo.cs
+C:\Users\gfalq\Desktop\SchoolOs\IAgents_NET\IAgent\IAgent.Infra\obj\Debug\net8.0\IAgent.Infra.csproj.CoreCompileInputs.cache
+C:\Users\gfalq\Desktop\SchoolOs\IAgents_NET\IAgent\IAgent.Infra\bin\Debug\net8.0\IAgent.Infra.deps.json
+C:\Users\gfalq\Desktop\SchoolOs\IAgents_NET\IAgent\IAgent.Infra\bin\Debug\net8.0\IAgent.Infra.dll
+C:\Users\gfalq\Desktop\SchoolOs\IAgents_NET\IAgent\IAgent.Infra\bin\Debug\net8.0\IAgent.Infra.pdb
+C:\Users\gfalq\Desktop\SchoolOs\IAgents_NET\IAgent\IAgent.Infra\bin\Debug\net8.0\IAgent.Domain.dll
+C:\Users\gfalq\Desktop\SchoolOs\IAgents_NET\IAgent\IAgent.Infra\bin\Debug\net8.0\IAgent.Domain.pdb
+C:\Users\gfalq\Desktop\SchoolOs\IAgents_NET\IAgent\IAgent.Infra\obj\Debug\net8.0\IAgent.Infra.csproj.AssemblyReference.cache
+C:\Users\gfalq\Desktop\SchoolOs\IAgents_NET\IAgent\IAgent.Infra\obj\Debug\net8.0\IAgent.I.54D86695.Up2Date
+C:\Users\gfalq\Desktop\SchoolOs\IAgents_NET\IAgent\IAgent.Infra\obj\Debug\net8.0\IAgent.Infra.dll
+C:\Users\gfalq\Desktop\SchoolOs\IAgents_NET\IAgent\IAgent.Infra\obj\Debug\net8.0\refint\IAgent.Infra.dll
+C:\Users\gfalq\Desktop\SchoolOs\IAgents_NET\IAgent\IAgent.Infra\obj\Debug\net8.0\IAgent.Infra.pdb
+C:\Users\gfalq\Desktop\SchoolOs\IAgents_NET\IAgent\IAgent.Infra\obj\Debug\net8.0\ref\IAgent.Infra.dll
+C:\Users\gfalq\Desktop\SchoolOs\IAgents_NET\IAgent\IAgent.Infra\bin\Debug\net8.0\IAgent.Application.dll
+C:\Users\gfalq\Desktop\SchoolOs\IAgents_NET\IAgent\IAgent.Infra\bin\Debug\net8.0\IAgent.Application.pdb
