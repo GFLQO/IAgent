@@ -1,0 +1,29 @@
+version: '3.8'
+
+services:
+  mongo:
+    image: mongo:6.0
+    container_name: ia-mongo
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: secret
+      MONGO_INITDB_DATABASE: IAgentDb
+    volumes:
+      - ./data/db:/data/db
+    ports:
+      - 27017:27017
+
+  api:
+    build:
+      context: .
+      dockerfile: /IAgent.API/Dockerfile
+    container_name: ia-api
+    restart: on-failure
+    ports:
+      - 5000:80
+    depends_on:
+      - mongo
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ConnectionStrings__Mongo: "mongodb://admin:secret@mongo:27017/IAgentDb?authSource=admin"

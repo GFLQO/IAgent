@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "/b1HBMbDLlestz3Xyb+3QVAJxWad2eoIzMLEW+zOX3o=",
+  "Source": "IAgent.API",
+  "BasePath": "_content/IAgent.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

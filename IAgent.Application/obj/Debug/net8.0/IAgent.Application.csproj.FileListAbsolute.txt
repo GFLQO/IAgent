@@ -1,0 +1,15 @@
+C:\Users\gfalq\Desktop\SchoolOs\IAgents_NET\IAgent\IAgent.Application\bin\Debug\net8.0\IAgent.Application.deps.json
+C:\Users\gfalq\Desktop\SchoolOs\IAgents_NET\IAgent\IAgent.Application\bin\Debug\net8.0\IAgent.Application.dll
+C:\Users\gfalq\Desktop\SchoolOs\IAgents_NET\IAgent\IAgent.Application\bin\Debug\net8.0\IAgent.Application.pdb
+C:\Users\gfalq\Desktop\SchoolOs\IAgents_NET\IAgent\IAgent.Application\obj\Debug\net8.0\IAgent.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gfalq\Desktop\SchoolOs\IAgents_NET\IAgent\IAgent.Application\obj\Debug\net8.0\IAgent.Application.AssemblyInfoInputs.cache
+C:\Users\gfalq\Desktop\SchoolOs\IAgents_NET\IAgent\IAgent.Application\obj\Debug\net8.0\IAgent.Application.AssemblyInfo.cs
+C:\Users\gfalq\Desktop\SchoolOs\IAgents_NET\IAgent\IAgent.Application\obj\Debug\net8.0\IAgent.Application.csproj.CoreCompileInputs.cache
+C:\Users\gfalq\Desktop\SchoolOs\IAgents_NET\IAgent\IAgent.Application\obj\Debug\net8.0\IAgent.Application.dll
+C:\Users\gfalq\Desktop\SchoolOs\IAgents_NET\IAgent\IAgent.Application\obj\Debug\net8.0\refint\IAgent.Application.dll
+C:\Users\gfalq\Desktop\SchoolOs\IAgents_NET\IAgent\IAgent.Application\obj\Debug\net8.0\IAgent.Application.pdb
+C:\Users\gfalq\Desktop\SchoolOs\IAgents_NET\IAgent\IAgent.Application\obj\Debug\net8.0\ref\IAgent.Application.dll
+C:\Users\gfalq\Desktop\SchoolOs\IAgents_NET\IAgent\IAgent.Application\bin\Debug\net8.0\IAgent.Domain.dll
+C:\Users\gfalq\Desktop\SchoolOs\IAgents_NET\IAgent\IAgent.Application\bin\Debug\net8.0\IAgent.Domain.pdb
+C:\Users\gfalq\Desktop\SchoolOs\IAgents_NET\IAgent\IAgent.Application\obj\Debug\net8.0\IAgent.Application.csproj.AssemblyReference.cache
+C:\Users\gfalq\Desktop\SchoolOs\IAgents_NET\IAgent\IAgent.Application\obj\Debug\net8.0\IAgent.A.4B2C9D8F.Up2Date

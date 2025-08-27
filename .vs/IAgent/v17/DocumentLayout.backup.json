@@ -1,0 +1,706 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98029C74-797C-4BA5-8679-54C8F56C8832}|IAgents.Tests\\IAgents.Tests.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagents.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98029C74-797C-4BA5-8679-54C8F56C8832}|IAgents.Tests\\IAgents.Tests.csproj|solutionrelative:iagents.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB04B69-9BB7-468C-842E-63FCD451418D}|IAgent.Application\\IAgent.Application.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.application\\abstractions\\bus\\ieventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB04B69-9BB7-468C-842E-63FCD451418D}|IAgent.Application\\IAgent.Application.csproj|solutionrelative:iagent.application\\abstractions\\bus\\ieventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF4A479-A03A-4DDF-8EE0-273A1FF2B92E}|IAgent.Infra\\IAgent.Infra.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.infra\\repositories\\agentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF4A479-A03A-4DDF-8EE0-273A1FF2B92E}|IAgent.Infra\\IAgent.Infra.csproj|solutionrelative:iagent.infra\\repositories\\agentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB04B69-9BB7-468C-842E-63FCD451418D}|IAgent.Application\\IAgent.Application.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.application\\abstractions\\repositories\\iagentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB04B69-9BB7-468C-842E-63FCD451418D}|IAgent.Application\\IAgent.Application.csproj|solutionrelative:iagent.application\\abstractions\\repositories\\iagentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF4A479-A03A-4DDF-8EE0-273A1FF2B92E}|IAgent.Infra\\IAgent.Infra.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.infra\\eventbus\\kafkaeventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF4A479-A03A-4DDF-8EE0-273A1FF2B92E}|IAgent.Infra\\IAgent.Infra.csproj|solutionrelative:iagent.infra\\eventbus\\kafkaeventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB04B69-9BB7-468C-842E-63FCD451418D}|IAgent.Application\\IAgent.Application.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.application\\usecases\\agents\\commands\\create\\createagenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB04B69-9BB7-468C-842E-63FCD451418D}|IAgent.Application\\IAgent.Application.csproj|solutionrelative:iagent.application\\usecases\\agents\\commands\\create\\createagenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB04B69-9BB7-468C-842E-63FCD451418D}|IAgent.Application\\IAgent.Application.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.application\\usecases\\agents\\queries\\getagentbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB04B69-9BB7-468C-842E-63FCD451418D}|IAgent.Application\\IAgent.Application.csproj|solutionrelative:iagent.application\\usecases\\agents\\queries\\getagentbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB04B69-9BB7-468C-842E-63FCD451418D}|IAgent.Application\\IAgent.Application.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.application\\usecases\\agents\\queries\\getagentbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB04B69-9BB7-468C-842E-63FCD451418D}|IAgent.Application\\IAgent.Application.csproj|solutionrelative:iagent.application\\usecases\\agents\\queries\\getagentbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCCAC91-ACEF-4014-BA6F-DF906E398824}|IAgent.API\\IAgent.API.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.api\\controllers\\agentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FCCAC91-ACEF-4014-BA6F-DF906E398824}|IAgent.API\\IAgent.API.csproj|solutionrelative:iagent.api\\controllers\\agentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB04B69-9BB7-468C-842E-63FCD451418D}|IAgent.Application\\IAgent.Application.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.application\\abstractions\\iagentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB04B69-9BB7-468C-842E-63FCD451418D}|IAgent.Application\\IAgent.Application.csproj|solutionrelative:iagent.application\\abstractions\\iagentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E2A3A55-673E-4E15-85AA-2EFD4A70ECB4}|IAgent.Domain\\IAgent.Domain.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.domain\\entities\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E2A3A55-673E-4E15-85AA-2EFD4A70ECB4}|IAgent.Domain\\IAgent.Domain.csproj|solutionrelative:iagent.domain\\entities\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E2A3A55-673E-4E15-85AA-2EFD4A70ECB4}|IAgent.Domain\\IAgent.Domain.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.domain\\valueobjects\\agentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E2A3A55-673E-4E15-85AA-2EFD4A70ECB4}|IAgent.Domain\\IAgent.Domain.csproj|solutionrelative:iagent.domain\\valueobjects\\agentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E2A3A55-673E-4E15-85AA-2EFD4A70ECB4}|IAgent.Domain\\IAgent.Domain.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.domain\\valueobjects\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E2A3A55-673E-4E15-85AA-2EFD4A70ECB4}|IAgent.Domain\\IAgent.Domain.csproj|solutionrelative:iagent.domain\\valueobjects\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E2A3A55-673E-4E15-85AA-2EFD4A70ECB4}|IAgent.Domain\\IAgent.Domain.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.domain\\valueobjects\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E2A3A55-673E-4E15-85AA-2EFD4A70ECB4}|IAgent.Domain\\IAgent.Domain.csproj|solutionrelative:iagent.domain\\valueobjects\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB04B69-9BB7-468C-842E-63FCD451418D}|IAgent.Application\\IAgent.Application.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.application\\usecases\\agents\\commands\\create\\createagentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB04B69-9BB7-468C-842E-63FCD451418D}|IAgent.Application\\IAgent.Application.csproj|solutionrelative:iagent.application\\usecases\\agents\\commands\\create\\createagentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB04B69-9BB7-468C-842E-63FCD451418D}|IAgent.Application\\IAgent.Application.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.application\\dtos\\agentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB04B69-9BB7-468C-842E-63FCD451418D}|IAgent.Application\\IAgent.Application.csproj|solutionrelative:iagent.application\\dtos\\agentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF4A479-A03A-4DDF-8EE0-273A1FF2B92E}|IAgent.Infra\\IAgent.Infra.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.infra\\contexts\\mongocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF4A479-A03A-4DDF-8EE0-273A1FF2B92E}|IAgent.Infra\\IAgent.Infra.csproj|solutionrelative:iagent.infra\\contexts\\mongocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF4A479-A03A-4DDF-8EE0-273A1FF2B92E}|IAgent.Infra\\IAgent.Infra.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.infra\\collectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF4A479-A03A-4DDF-8EE0-273A1FF2B92E}|IAgent.Infra\\IAgent.Infra.csproj|solutionrelative:iagent.infra\\collectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCCAC91-ACEF-4014-BA6F-DF906E398824}|IAgent.API\\IAgent.API.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.api\\middleware\\authmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FCCAC91-ACEF-4014-BA6F-DF906E398824}|IAgent.API\\IAgent.API.csproj|solutionrelative:iagent.api\\middleware\\authmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E2A3A55-673E-4E15-85AA-2EFD4A70ECB4}|IAgent.Domain\\IAgent.Domain.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.domain\\enums\\agentprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E2A3A55-673E-4E15-85AA-2EFD4A70ECB4}|IAgent.Domain\\IAgent.Domain.csproj|solutionrelative:iagent.domain\\enums\\agentprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E2A3A55-673E-4E15-85AA-2EFD4A70ECB4}|IAgent.Domain\\IAgent.Domain.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.domain\\entities\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E2A3A55-673E-4E15-85AA-2EFD4A70ECB4}|IAgent.Domain\\IAgent.Domain.csproj|solutionrelative:iagent.domain\\entities\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCCAC91-ACEF-4014-BA6F-DF906E398824}|IAgent.API\\IAgent.API.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FCCAC91-ACEF-4014-BA6F-DF906E398824}|IAgent.API\\IAgent.API.csproj|solutionrelative:iagent.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCCAC91-ACEF-4014-BA6F-DF906E398824}|IAgent.API\\IAgent.API.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FCCAC91-ACEF-4014-BA6F-DF906E398824}|IAgent.API\\IAgent.API.csproj|solutionrelative:iagent.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB04B69-9BB7-468C-842E-63FCD451418D}|IAgent.Application\\IAgent.Application.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.application\\dtos\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB04B69-9BB7-468C-842E-63FCD451418D}|IAgent.Application\\IAgent.Application.csproj|solutionrelative:iagent.application\\dtos\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCCAC91-ACEF-4014-BA6F-DF906E398824}|IAgent.API\\IAgent.API.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2FCCAC91-ACEF-4014-BA6F-DF906E398824}|IAgent.API\\IAgent.API.csproj|solutionrelative:iagent.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCCAC91-ACEF-4014-BA6F-DF906E398824}|IAgent.API\\IAgent.API.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.api\\appsettings.local.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2FCCAC91-ACEF-4014-BA6F-DF906E398824}|IAgent.API\\IAgent.API.csproj|solutionrelative:iagent.api\\appsettings.local.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D69E68-DD06-4A12-ADD6-A5C344C04796}|Solution Items{E2D69E68-DD06-4A12-ADD6-A5C344C04796}|C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E2D69E68-DD06-4A12-ADD6-A5C344C04796}|Solution Items{E2D69E68-DD06-4A12-ADD6-A5C344C04796}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCCAC91-ACEF-4014-BA6F-DF906E398824}|IAgent.API\\IAgent.API.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2FCCAC91-ACEF-4014-BA6F-DF906E398824}|IAgent.API\\IAgent.API.csproj|solutionrelative:iagent.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgents.Core\\Entities\\Job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IAgents.Core\\Entities\\Job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IAgent\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IAgent\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent\\appsettings.Local.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IAgent\\appsettings.Local.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IAgent\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgents.Infra\\Contexts\\MongoDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IAgents.Infra\\Contexts\\MongoDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgents.Core\\Entities\\TaskType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IAgents.Core\\Entities\\TaskType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgents.Infra\\IAgent.Infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IAgents.Infra\\IAgent.Infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgents.Core\\Enums\\JobType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IAgents.Core\\Enums\\JobType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgents.Core\\Enums\\Experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IAgents.Core\\Enums\\Experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgents.Core\\Entities\\Agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IAgents.Core\\Entities\\Agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgents.Core\\Enums\\AgentProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IAgents.Core\\Enums\\AgentProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgents.Core\\Enums\\AgentStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IAgents.Core\\Enums\\AgentStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent\\Controllers\\AgentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IAgent\\Controllers\\AgentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgents.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "IAgents.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgents.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "IAgents.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T08:05:15.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KafkaEventBus.cs",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Infra\\EventBus\\KafkaEventBus.cs",
+              "RelativeDocumentMoniker": "IAgent.Infra\\EventBus\\KafkaEventBus.cs",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Infra\\EventBus\\KafkaEventBus.cs",
+              "RelativeToolTip": "IAgent.Infra\\EventBus\\KafkaEventBus.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T16:01:06.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEventBus.cs",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Application\\Abstractions\\Bus\\IEventBus.cs",
+              "RelativeDocumentMoniker": "IAgent.Application\\Abstractions\\Bus\\IEventBus.cs",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Application\\Abstractions\\Bus\\IEventBus.cs",
+              "RelativeToolTip": "IAgent.Application\\Abstractions\\Bus\\IEventBus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T15:59:41.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetAgentByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Application\\UseCases\\Agents\\Queries\\GetAgentByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "IAgent.Application\\UseCases\\Agents\\Queries\\GetAgentByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Application\\UseCases\\Agents\\Queries\\GetAgentByIdQueryHandler.cs",
+              "RelativeToolTip": "IAgent.Application\\UseCases\\Agents\\Queries\\GetAgentByIdQueryHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T15:42:46.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAgentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Application\\Abstractions\\Repositories\\IAgentRepository.cs",
+              "RelativeDocumentMoniker": "IAgent.Application\\Abstractions\\Repositories\\IAgentRepository.cs",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Application\\Abstractions\\Repositories\\IAgentRepository.cs",
+              "RelativeToolTip": "IAgent.Application\\Abstractions\\Repositories\\IAgentRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T12:48:14.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AgentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Infra\\Repositories\\AgentRepository.cs",
+              "RelativeDocumentMoniker": "IAgent.Infra\\Repositories\\AgentRepository.cs",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Infra\\Repositories\\AgentRepository.cs",
+              "RelativeToolTip": "IAgent.Infra\\Repositories\\AgentRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA5wBkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T13:23:40.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAgentService.cs",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Application\\Abstractions\\IAgentService.cs",
+              "RelativeDocumentMoniker": "IAgent.Application\\Abstractions\\IAgentService.cs",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Application\\Abstractions\\IAgentService.cs",
+              "RelativeToolTip": "IAgent.Application\\Abstractions\\IAgentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T15:23:59.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateAgentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Application\\UseCases\\Agents\\Commands\\Create\\CreateAgentHandler.cs",
+              "RelativeDocumentMoniker": "IAgent.Application\\UseCases\\Agents\\Commands\\Create\\CreateAgentHandler.cs",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Application\\UseCases\\Agents\\Commands\\Create\\CreateAgentHandler.cs",
+              "RelativeToolTip": "IAgent.Application\\UseCases\\Agents\\Commands\\Create\\CreateAgentHandler.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T09:30:05.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AgentsController.cs",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.API\\Controllers\\AgentsController.cs",
+              "RelativeDocumentMoniker": "IAgent.API\\Controllers\\AgentsController.cs",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.API\\Controllers\\AgentsController.cs",
+              "RelativeToolTip": "IAgent.API\\Controllers\\AgentsController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T15:16:59.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AgentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Domain\\ValueObjects\\AgentConfiguration.cs",
+              "RelativeDocumentMoniker": "IAgent.Domain\\ValueObjects\\AgentConfiguration.cs",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Domain\\ValueObjects\\AgentConfiguration.cs",
+              "RelativeToolTip": "IAgent.Domain\\ValueObjects\\AgentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T15:16:49.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetAgentByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Application\\UseCases\\Agents\\Queries\\GetAgentByIdQuery.cs",
+              "RelativeDocumentMoniker": "IAgent.Application\\UseCases\\Agents\\Queries\\GetAgentByIdQuery.cs",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Application\\UseCases\\Agents\\Queries\\GetAgentByIdQuery.cs",
+              "RelativeToolTip": "IAgent.Application\\UseCases\\Agents\\Queries\\GetAgentByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T09:30:24.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Money.cs",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Domain\\ValueObjects\\Money.cs",
+              "RelativeDocumentMoniker": "IAgent.Domain\\ValueObjects\\Money.cs",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Domain\\ValueObjects\\Money.cs",
+              "RelativeToolTip": "IAgent.Domain\\ValueObjects\\Money.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBcAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T14:31:15.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Domain\\ValueObjects\\Email.cs",
+              "RelativeDocumentMoniker": "IAgent.Domain\\ValueObjects\\Email.cs",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Domain\\ValueObjects\\Email.cs",
+              "RelativeToolTip": "IAgent.Domain\\ValueObjects\\Email.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T14:32:51.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateAgentCommand.cs",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Application\\UseCases\\Agents\\Commands\\Create\\CreateAgentCommand.cs",
+              "RelativeDocumentMoniker": "IAgent.Application\\UseCases\\Agents\\Commands\\Create\\CreateAgentCommand.cs",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Application\\UseCases\\Agents\\Commands\\Create\\CreateAgentCommand.cs",
+              "RelativeToolTip": "IAgent.Application\\UseCases\\Agents\\Commands\\Create\\CreateAgentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T09:29:56.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Agent.cs",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Domain\\Entities\\Agent.cs",
+              "RelativeDocumentMoniker": "IAgent.Domain\\Entities\\Agent.cs",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Domain\\Entities\\Agent.cs",
+              "RelativeToolTip": "IAgent.Domain\\Entities\\Agent.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAawCMAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T12:57:11.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AgentDto.cs",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Application\\Dtos\\AgentDto.cs",
+              "RelativeDocumentMoniker": "IAgent.Application\\Dtos\\AgentDto.cs",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Application\\Dtos\\AgentDto.cs",
+              "RelativeToolTip": "IAgent.Application\\Dtos\\AgentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T12:51:03.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MongoContext.cs",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Infra\\Contexts\\MongoContext.cs",
+              "RelativeDocumentMoniker": "IAgent.Infra\\Contexts\\MongoContext.cs",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Infra\\Contexts\\MongoContext.cs",
+              "RelativeToolTip": "IAgent.Infra\\Contexts\\MongoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:48:25.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.API\\Middleware\\AuthMiddleware.cs",
+              "RelativeDocumentMoniker": "IAgent.API\\Middleware\\AuthMiddleware.cs",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.API\\Middleware\\AuthMiddleware.cs",
+              "RelativeToolTip": "IAgent.API\\Middleware\\AuthMiddleware.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:46:42.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CollectionService.cs",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Infra\\CollectionService.cs",
+              "RelativeDocumentMoniker": "IAgent.Infra\\CollectionService.cs",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Infra\\CollectionService.cs",
+              "RelativeToolTip": "IAgent.Infra\\CollectionService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T13:45:30.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AgentProvider.cs",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Domain\\Enums\\AgentProvider.cs",
+              "RelativeDocumentMoniker": "IAgent.Domain\\Enums\\AgentProvider.cs",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Domain\\Enums\\AgentProvider.cs",
+              "RelativeToolTip": "IAgent.Domain\\Enums\\AgentProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T08:00:48.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "IAgent.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "IAgent.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBJwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T21:56:11.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RegistrationDto.cs",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Application\\Dtos\\RegistrationDto.cs",
+              "RelativeDocumentMoniker": "IAgent.Application\\Dtos\\RegistrationDto.cs",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Application\\Dtos\\RegistrationDto.cs",
+              "RelativeToolTip": "IAgent.Application\\Dtos\\RegistrationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:42:31.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Domain\\Entities\\Job.cs",
+              "RelativeDocumentMoniker": "IAgent.Domain\\Entities\\Job.cs",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Domain\\Entities\\Job.cs",
+              "RelativeToolTip": "IAgent.Domain\\Entities\\Job.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T12:59:00.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.API\\Program.cs",
+              "RelativeDocumentMoniker": "IAgent.API\\Program.cs",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.API\\Program.cs",
+              "RelativeToolTip": "IAgent.API\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:37:19.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "IAgent.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.API\\appsettings.Development.json",
+              "RelativeToolTip": "IAgent.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-15T15:13:24.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.Local.json",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.API\\appsettings.Local.json",
+              "RelativeDocumentMoniker": "IAgent.API\\appsettings.Local.json",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.API\\appsettings.Local.json",
+              "RelativeToolTip": "IAgent.API\\appsettings.Local.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-15T15:13:16.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-07-15T15:02:56.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.API\\Dockerfile",
+              "RelativeDocumentMoniker": "IAgent.API\\Dockerfile",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.API\\Dockerfile",
+              "RelativeToolTip": "IAgent.API\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-15T14:38:25.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent\\Dockerfile",
+              "RelativeDocumentMoniker": "IAgent\\Dockerfile",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent\\Dockerfile",
+              "RelativeToolTip": "IAgent\\Dockerfile",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-15T12:55:29.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "IAgent\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent\\appsettings.Development.json",
+              "RelativeToolTip": "IAgent\\appsettings.Development.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-15T12:46:05.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.Local.json",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent\\appsettings.Local.json",
+              "RelativeDocumentMoniker": "IAgent\\appsettings.Local.json",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent\\appsettings.Local.json",
+              "RelativeToolTip": "IAgent\\appsettings.Local.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-15T12:46:02.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent\\Program.cs",
+              "RelativeDocumentMoniker": "IAgent\\Program.cs",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent\\Program.cs",
+              "RelativeToolTip": "IAgent\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:40:08.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MongoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgents.Infra\\Contexts\\MongoDbContext.cs",
+              "RelativeDocumentMoniker": "IAgents.Infra\\Contexts\\MongoDbContext.cs",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgents.Infra\\Contexts\\MongoDbContext.cs",
+              "RelativeToolTip": "IAgents.Infra\\Contexts\\MongoDbContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:37:47.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TaskType.cs",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgents.Core\\Entities\\TaskType.cs",
+              "RelativeDocumentMoniker": "IAgents.Core\\Entities\\TaskType.cs",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgents.Core\\Entities\\TaskType.cs",
+              "RelativeToolTip": "IAgents.Core\\Entities\\TaskType.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:28:00.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IAgent.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgents.Infra\\IAgent.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "IAgents.Infra\\IAgent.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgents.Infra\\IAgent.Infrastructure.csproj",
+              "RelativeToolTip": "IAgents.Infra\\IAgent.Infrastructure.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-15T10:56:12.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgents.Core\\Entities\\Job.cs",
+              "RelativeDocumentMoniker": "IAgents.Core\\Entities\\Job.cs",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgents.Core\\Entities\\Job.cs",
+              "RelativeToolTip": "IAgents.Core\\Entities\\Job.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T10:56:04.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "JobType.cs",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgents.Core\\Enums\\JobType.cs",
+              "RelativeDocumentMoniker": "IAgents.Core\\Enums\\JobType.cs",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgents.Core\\Enums\\JobType.cs",
+              "RelativeToolTip": "IAgents.Core\\Enums\\JobType.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T10:05:15.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Experience.cs",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgents.Core\\Enums\\Experience.cs",
+              "RelativeDocumentMoniker": "IAgents.Core\\Enums\\Experience.cs",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgents.Core\\Enums\\Experience.cs",
+              "RelativeToolTip": "IAgents.Core\\Enums\\Experience.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T10:00:53.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Agent.cs",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgents.Core\\Entities\\Agent.cs",
+              "RelativeDocumentMoniker": "IAgents.Core\\Entities\\Agent.cs",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgents.Core\\Entities\\Agent.cs",
+              "RelativeToolTip": "IAgents.Core\\Entities\\Agent.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T09:57:06.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AgentProvider.cs",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgents.Core\\Enums\\AgentProvider.cs",
+              "RelativeDocumentMoniker": "IAgents.Core\\Enums\\AgentProvider.cs",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgents.Core\\Enums\\AgentProvider.cs",
+              "RelativeToolTip": "IAgents.Core\\Enums\\AgentProvider.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T09:56:16.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AgentStatus.cs",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgents.Core\\Enums\\AgentStatus.cs",
+              "RelativeDocumentMoniker": "IAgents.Core\\Enums\\AgentStatus.cs",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgents.Core\\Enums\\AgentStatus.cs",
+              "RelativeToolTip": "IAgents.Core\\Enums\\AgentStatus.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T09:55:16.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AgentsController.cs",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent\\Controllers\\AgentsController.cs",
+              "RelativeDocumentMoniker": "IAgent\\Controllers\\AgentsController.cs",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent\\Controllers\\AgentsController.cs",
+              "RelativeToolTip": "IAgent\\Controllers\\AgentsController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T09:15:16.802Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
