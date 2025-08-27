@@ -18,5 +18,11 @@ namespace IAgent.API.Controllers
             return CreatedAtAction(nameof(Register), new { }, null);
         }
 
+        [HttpPost("login")]
+        public async Task<ActionResult> Login([FromBody] string dto)
+        {
+            return Ok();
+        }
+
     }
 }

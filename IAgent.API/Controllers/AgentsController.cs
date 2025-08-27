@@ -1,4 +1,6 @@
-﻿using IAgent.Domain.Entities;
+﻿using IAgent.Application.Abstractions.Bus;
+using IAgent.Domain.Entities;
+using IAgent.Domain.Events.Agents;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using System.Threading.Tasks;
@@ -9,7 +11,11 @@ namespace IAgent.API.Controllers
     [Route("api/[controller]")]
     public class AgentController : ControllerBase
     {
-        public AgentController() { }
+        private readonly IEventPublisher _publisher;
+        public AgentController(IEventPublisher publisher) 
+        {
+            _publisher = publisher;
+        }
 
         [HttpGet]
         public async Task<ActionResult<List<Agent>>> Get()
@@ -18,7 +24,10 @@ namespace IAgent.API.Controllers
         [HttpPost]
         public async Task<ActionResult<Agent>> Create([FromBody] Agent agent)
         {
-            return CreatedAtAction(nameof(GetById), new { id = agent.Id }, agent);
+            var result =  CreatedAtAction(nameof(GetById), new { id = agent.Id }, agent);
+
+            await _publisher.PublishAsync("agent-created", new AgentCreatedEvent(agent.Id, agent.Name, DateTime.UtcNow), new CancellationToken());
+            return result;
         }
 
         [HttpGet("{id}")]
