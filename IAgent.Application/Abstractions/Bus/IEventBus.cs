@@ -6,8 +6,13 @@ using System.Threading.Tasks;
 
 namespace IAgent.Application.Abstractions.Bus
 {
-    public interface IEventBus
+    public interface IEventPublisher
     {
-        Task PublishAsync<T>(T @event, CancellationToken ct);
+        Task PublishAsync<T>(string topic, T @event, CancellationToken ct);
+    }
+
+    public interface IEventConsumer
+    {
+        Task ConsumeAsync<T>(string topic, Func<T, Task> handler, CancellationToken ct);
     }
 }

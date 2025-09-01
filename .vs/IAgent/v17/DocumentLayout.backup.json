@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98029C74-797C-4BA5-8679-54C8F56C8832}|IAgents.Tests\\IAgents.Tests.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagents.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98029C74-797C-4BA5-8679-54C8F56C8832}|IAgents.Tests\\IAgents.Tests.csproj|solutionrelative:iagents.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2FCCAC91-ACEF-4014-BA6F-DF906E398824}|IAgent.API\\IAgent.API.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2FCCAC91-ACEF-4014-BA6F-DF906E398824}|IAgent.API\\IAgent.API.csproj|solutionrelative:iagent.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC26895-BFD2-4BFE-BABF-163FB2E6E933}|Billing.API\\Billing.API.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\billing.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7DC26895-BFD2-4BFE-BABF-163FB2E6E933}|Billing.API\\Billing.API.csproj|solutionrelative:billing.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D69E68-DD06-4A12-ADD6-A5C344C04796}|Solution Items{E2D69E68-DD06-4A12-ADD6-A5C344C04796}|C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E2D69E68-DD06-4A12-ADD6-A5C344C04796}|Solution Items{E2D69E68-DD06-4A12-ADD6-A5C344C04796}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF4A479-A03A-4DDF-8EE0-273A1FF2B92E}|IAgent.Infra\\IAgent.Infra.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.infra\\eventbus\\kafkaeventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF4A479-A03A-4DDF-8EE0-273A1FF2B92E}|IAgent.Infra\\IAgent.Infra.csproj|solutionrelative:iagent.infra\\eventbus\\kafkaeventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCCAC91-ACEF-4014-BA6F-DF906E398824}|IAgent.API\\IAgent.API.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.api\\controllers\\agentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FCCAC91-ACEF-4014-BA6F-DF906E398824}|IAgent.API\\IAgent.API.csproj|solutionrelative:iagent.api\\controllers\\agentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4FB04B69-9BB7-468C-842E-63FCD451418D}|IAgent.Application\\IAgent.Application.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.application\\abstractions\\bus\\ieventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FB04B69-9BB7-468C-842E-63FCD451418D}|IAgent.Application\\IAgent.Application.csproj|solutionrelative:iagent.application\\abstractions\\bus\\ieventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E2A3A55-673E-4E15-85AA-2EFD4A70ECB4}|IAgent.Domain\\IAgent.Domain.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.domain\\events\\agents\\agentcreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E2A3A55-673E-4E15-85AA-2EFD4A70ECB4}|IAgent.Domain\\IAgent.Domain.csproj|solutionrelative:iagent.domain\\events\\agents\\agentcreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCCAC91-ACEF-4014-BA6F-DF906E398824}|IAgent.API\\IAgent.API.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FCCAC91-ACEF-4014-BA6F-DF906E398824}|IAgent.API\\IAgent.API.csproj|solutionrelative:iagent.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB04B69-9BB7-468C-842E-63FCD451418D}|IAgent.Application\\IAgent.Application.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.application\\dtos\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB04B69-9BB7-468C-842E-63FCD451418D}|IAgent.Application\\IAgent.Application.csproj|solutionrelative:iagent.application\\dtos\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EAF4A479-A03A-4DDF-8EE0-273A1FF2B92E}|IAgent.Infra\\IAgent.Infra.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.infra\\repositories\\agentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4FB04B69-9BB7-468C-842E-63FCD451418D}|IAgent.Application\\IAgent.Application.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.application\\abstractions\\repositories\\iagentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FB04B69-9BB7-468C-842E-63FCD451418D}|IAgent.Application\\IAgent.Application.csproj|solutionrelative:iagent.application\\abstractions\\repositories\\iagentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAF4A479-A03A-4DDF-8EE0-273A1FF2B92E}|IAgent.Infra\\IAgent.Infra.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.infra\\eventbus\\kafkaeventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAF4A479-A03A-4DDF-8EE0-273A1FF2B92E}|IAgent.Infra\\IAgent.Infra.csproj|solutionrelative:iagent.infra\\eventbus\\kafkaeventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4FB04B69-9BB7-468C-842E-63FCD451418D}|IAgent.Application\\IAgent.Application.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.application\\usecases\\agents\\commands\\create\\createagenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4FB04B69-9BB7-468C-842E-63FCD451418D}|IAgent.Application\\IAgent.Application.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.application\\usecases\\agents\\queries\\getagentbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FB04B69-9BB7-468C-842E-63FCD451418D}|IAgent.Application\\IAgent.Application.csproj|solutionrelative:iagent.application\\usecases\\agents\\queries\\getagentbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FCCAC91-ACEF-4014-BA6F-DF906E398824}|IAgent.API\\IAgent.API.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.api\\controllers\\agentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FCCAC91-ACEF-4014-BA6F-DF906E398824}|IAgent.API\\IAgent.API.csproj|solutionrelative:iagent.api\\controllers\\agentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4FB04B69-9BB7-468C-842E-63FCD451418D}|IAgent.Application\\IAgent.Application.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.application\\abstractions\\iagentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -91,28 +111,12 @@
       "RelativeMoniker": "D:0:0:{2FCCAC91-ACEF-4014-BA6F-DF906E398824}|IAgent.API\\IAgent.API.csproj|solutionrelative:iagent.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FCCAC91-ACEF-4014-BA6F-DF906E398824}|IAgent.API\\IAgent.API.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FCCAC91-ACEF-4014-BA6F-DF906E398824}|IAgent.API\\IAgent.API.csproj|solutionrelative:iagent.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FB04B69-9BB7-468C-842E-63FCD451418D}|IAgent.Application\\IAgent.Application.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.application\\dtos\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FB04B69-9BB7-468C-842E-63FCD451418D}|IAgent.Application\\IAgent.Application.csproj|solutionrelative:iagent.application\\dtos\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2FCCAC91-ACEF-4014-BA6F-DF906E398824}|IAgent.API\\IAgent.API.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2FCCAC91-ACEF-4014-BA6F-DF906E398824}|IAgent.API\\IAgent.API.csproj|solutionrelative:iagent.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2FCCAC91-ACEF-4014-BA6F-DF906E398824}|IAgent.API\\IAgent.API.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.api\\appsettings.local.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2FCCAC91-ACEF-4014-BA6F-DF906E398824}|IAgent.API\\IAgent.API.csproj|solutionrelative:iagent.api\\appsettings.local.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2D69E68-DD06-4A12-ADD6-A5C344C04796}|Solution Items{E2D69E68-DD06-4A12-ADD6-A5C344C04796}|C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{E2D69E68-DD06-4A12-ADD6-A5C344C04796}|Solution Items{E2D69E68-DD06-4A12-ADD6-A5C344C04796}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FCCAC91-ACEF-4014-BA6F-DF906E398824}|IAgent.API\\IAgent.API.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{2FCCAC91-ACEF-4014-BA6F-DF906E398824}|IAgent.API\\IAgent.API.csproj|solutionrelative:iagent.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgents.Core\\Entities\\Job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -178,89 +182,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgents.Tests\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "IAgents.Tests\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgents.Tests\\UnitTest1.cs",
-              "RelativeToolTip": "IAgents.Tests\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T08:05:15.67Z",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\Billing.API\\Dockerfile",
+              "RelativeDocumentMoniker": "Billing.API\\Dockerfile",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\Billing.API\\Dockerfile",
+              "RelativeToolTip": "Billing.API\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-31T16:47:10.102Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.API\\Dockerfile",
+              "RelativeDocumentMoniker": "IAgent.API\\Dockerfile",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.API\\Dockerfile",
+              "RelativeToolTip": "IAgent.API\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-15T14:38:25.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "KafkaEventBus.cs",
               "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Infra\\EventBus\\KafkaEventBus.cs",
               "RelativeDocumentMoniker": "IAgent.Infra\\EventBus\\KafkaEventBus.cs",
               "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Infra\\EventBus\\KafkaEventBus.cs",
               "RelativeToolTip": "IAgent.Infra\\EventBus\\KafkaEventBus.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAUwA8AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAA5wDQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-26T16:01:06.484Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "AgentsController.cs",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.API\\Controllers\\AgentsController.cs",
+              "RelativeDocumentMoniker": "IAgent.API\\Controllers\\AgentsController.cs",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.API\\Controllers\\AgentsController.cs",
+              "RelativeToolTip": "IAgent.API\\Controllers\\AgentsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAzwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T15:16:59.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "IEventBus.cs",
               "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Application\\Abstractions\\Bus\\IEventBus.cs",
               "RelativeDocumentMoniker": "IAgent.Application\\Abstractions\\Bus\\IEventBus.cs",
               "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Application\\Abstractions\\Bus\\IEventBus.cs",
               "RelativeToolTip": "IAgent.Application\\Abstractions\\Bus\\IEventBus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-26T15:59:41.31Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GetAgentByIdQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Application\\UseCases\\Agents\\Queries\\GetAgentByIdQueryHandler.cs",
-              "RelativeDocumentMoniker": "IAgent.Application\\UseCases\\Agents\\Queries\\GetAgentByIdQueryHandler.cs",
-              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Application\\UseCases\\Agents\\Queries\\GetAgentByIdQueryHandler.cs",
-              "RelativeToolTip": "IAgent.Application\\UseCases\\Agents\\Queries\\GetAgentByIdQueryHandler.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T15:42:46.469Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IAgentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Application\\Abstractions\\Repositories\\IAgentRepository.cs",
-              "RelativeDocumentMoniker": "IAgent.Application\\Abstractions\\Repositories\\IAgentRepository.cs",
-              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Application\\Abstractions\\Repositories\\IAgentRepository.cs",
-              "RelativeToolTip": "IAgent.Application\\Abstractions\\Repositories\\IAgentRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAwAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T12:48:14.733Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AgentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Infra\\Repositories\\AgentRepository.cs",
-              "RelativeDocumentMoniker": "IAgent.Infra\\Repositories\\AgentRepository.cs",
-              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Infra\\Repositories\\AgentRepository.cs",
-              "RelativeToolTip": "IAgent.Infra\\Repositories\\AgentRepository.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA5wBkAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T13:23:40.166Z",
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAACkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-07-15T15:02:56.458Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
+              "Title": "AgentCreatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Domain\\Events\\Agents\\AgentCreatedEvent.cs",
+              "RelativeDocumentMoniker": "IAgent.Domain\\Events\\Agents\\AgentCreatedEvent.cs",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Domain\\Events\\Agents\\AgentCreatedEvent.cs",
+              "RelativeToolTip": "IAgent.Domain\\Events\\Agents\\AgentCreatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T10:17:29.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "IAgent.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "IAgent.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T21:56:11.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegistrationDto.cs",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Application\\Dtos\\RegistrationDto.cs",
+              "RelativeDocumentMoniker": "IAgent.Application\\Dtos\\RegistrationDto.cs",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Application\\Dtos\\RegistrationDto.cs",
+              "RelativeToolTip": "IAgent.Application\\Dtos\\RegistrationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:42:31.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "IAgentService.cs",
               "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Application\\Abstractions\\IAgentService.cs",
               "RelativeDocumentMoniker": "IAgent.Application\\Abstractions\\IAgentService.cs",
@@ -273,33 +316,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
+              "Title": "AgentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Infra\\Repositories\\AgentRepository.cs",
+              "RelativeDocumentMoniker": "IAgent.Infra\\Repositories\\AgentRepository.cs",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Infra\\Repositories\\AgentRepository.cs",
+              "RelativeToolTip": "IAgent.Infra\\Repositories\\AgentRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T13:23:40.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAgentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Application\\Abstractions\\Repositories\\IAgentRepository.cs",
+              "RelativeDocumentMoniker": "IAgent.Application\\Abstractions\\Repositories\\IAgentRepository.cs",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Application\\Abstractions\\Repositories\\IAgentRepository.cs",
+              "RelativeToolTip": "IAgent.Application\\Abstractions\\Repositories\\IAgentRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T12:48:14.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetAgentByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Application\\UseCases\\Agents\\Queries\\GetAgentByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "IAgent.Application\\UseCases\\Agents\\Queries\\GetAgentByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Application\\UseCases\\Agents\\Queries\\GetAgentByIdQueryHandler.cs",
+              "RelativeToolTip": "IAgent.Application\\UseCases\\Agents\\Queries\\GetAgentByIdQueryHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T15:42:46.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "CreateAgentHandler.cs",
               "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Application\\UseCases\\Agents\\Commands\\Create\\CreateAgentHandler.cs",
               "RelativeDocumentMoniker": "IAgent.Application\\UseCases\\Agents\\Commands\\Create\\CreateAgentHandler.cs",
               "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Application\\UseCases\\Agents\\Commands\\Create\\CreateAgentHandler.cs",
               "RelativeToolTip": "IAgent.Application\\UseCases\\Agents\\Commands\\Create\\CreateAgentHandler.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwBsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-26T09:30:05.414Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AgentsController.cs",
-              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.API\\Controllers\\AgentsController.cs",
-              "RelativeDocumentMoniker": "IAgent.API\\Controllers\\AgentsController.cs",
-              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.API\\Controllers\\AgentsController.cs",
-              "RelativeToolTip": "IAgent.API\\Controllers\\AgentsController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T15:16:59.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "AgentConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Domain\\ValueObjects\\AgentConfiguration.cs",
               "RelativeDocumentMoniker": "IAgent.Domain\\ValueObjects\\AgentConfiguration.cs",
@@ -312,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "GetAgentByIdQuery.cs",
               "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Application\\UseCases\\Agents\\Queries\\GetAgentByIdQuery.cs",
               "RelativeDocumentMoniker": "IAgent.Application\\UseCases\\Agents\\Queries\\GetAgentByIdQuery.cs",
@@ -325,20 +394,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "Money.cs",
               "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Domain\\ValueObjects\\Money.cs",
               "RelativeDocumentMoniker": "IAgent.Domain\\ValueObjects\\Money.cs",
               "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Domain\\ValueObjects\\Money.cs",
               "RelativeToolTip": "IAgent.Domain\\ValueObjects\\Money.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBcAAABVAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBcAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-26T14:31:15.014Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "Email.cs",
               "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Domain\\ValueObjects\\Email.cs",
               "RelativeDocumentMoniker": "IAgent.Domain\\ValueObjects\\Email.cs",
@@ -351,7 +420,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "CreateAgentCommand.cs",
               "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Application\\UseCases\\Agents\\Commands\\Create\\CreateAgentCommand.cs",
               "RelativeDocumentMoniker": "IAgent.Application\\UseCases\\Agents\\Commands\\Create\\CreateAgentCommand.cs",
@@ -364,7 +433,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "Agent.cs",
               "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Domain\\Entities\\Agent.cs",
               "RelativeDocumentMoniker": "IAgent.Domain\\Entities\\Agent.cs",
@@ -377,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "AgentDto.cs",
               "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Application\\Dtos\\AgentDto.cs",
               "RelativeDocumentMoniker": "IAgent.Application\\Dtos\\AgentDto.cs",
@@ -390,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "MongoContext.cs",
               "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Infra\\Contexts\\MongoContext.cs",
               "RelativeDocumentMoniker": "IAgent.Infra\\Contexts\\MongoContext.cs",
@@ -403,7 +472,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "AuthMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.API\\Middleware\\AuthMiddleware.cs",
               "RelativeDocumentMoniker": "IAgent.API\\Middleware\\AuthMiddleware.cs",
@@ -416,20 +485,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "CollectionService.cs",
               "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Infra\\CollectionService.cs",
               "RelativeDocumentMoniker": "IAgent.Infra\\CollectionService.cs",
               "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Infra\\CollectionService.cs",
               "RelativeToolTip": "IAgent.Infra\\CollectionService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-16T13:45:30.986Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "AgentProvider.cs",
               "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Domain\\Enums\\AgentProvider.cs",
               "RelativeDocumentMoniker": "IAgent.Domain\\Enums\\AgentProvider.cs",
@@ -442,33 +511,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.API\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "IAgent.API\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.API\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "IAgent.API\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAIBJwBAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T21:56:11.848Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "RegistrationDto.cs",
-              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Application\\Dtos\\RegistrationDto.cs",
-              "RelativeDocumentMoniker": "IAgent.Application\\Dtos\\RegistrationDto.cs",
-              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Application\\Dtos\\RegistrationDto.cs",
-              "RelativeToolTip": "IAgent.Application\\Dtos\\RegistrationDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T09:42:31.093Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "Job.cs",
               "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.Domain\\Entities\\Job.cs",
               "RelativeDocumentMoniker": "IAgent.Domain\\Entities\\Job.cs",
@@ -481,20 +524,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.API\\Program.cs",
               "RelativeDocumentMoniker": "IAgent.API\\Program.cs",
               "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.API\\Program.cs",
               "RelativeToolTip": "IAgent.API\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAIBJwCIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBZwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-15T14:37:19.723Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "IAgent.API\\appsettings.Development.json",
@@ -507,7 +550,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "appsettings.Local.json",
               "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.API\\appsettings.Local.json",
               "RelativeDocumentMoniker": "IAgent.API\\appsettings.Local.json",
@@ -520,33 +563,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "docker-compose.yml",
-              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\docker-compose.yml",
-              "RelativeDocumentMoniker": "docker-compose.yml",
-              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\docker-compose.yml",
-              "RelativeToolTip": "docker-compose.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-07-15T15:02:56.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.API\\Dockerfile",
-              "RelativeDocumentMoniker": "IAgent.API\\Dockerfile",
-              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.API\\Dockerfile",
-              "RelativeToolTip": "IAgent.API\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-07-15T14:38:25.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent\\Dockerfile",
               "RelativeDocumentMoniker": "IAgent\\Dockerfile",
@@ -557,7 +574,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent\\appsettings.Development.json",
               "RelativeDocumentMoniker": "IAgent\\appsettings.Development.json",
@@ -568,7 +585,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "appsettings.Local.json",
               "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent\\appsettings.Local.json",
               "RelativeDocumentMoniker": "IAgent\\appsettings.Local.json",
@@ -579,7 +596,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent\\Program.cs",
               "RelativeDocumentMoniker": "IAgent\\Program.cs",
@@ -590,7 +607,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "MongoDbContext.cs",
               "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgents.Infra\\Contexts\\MongoDbContext.cs",
               "RelativeDocumentMoniker": "IAgents.Infra\\Contexts\\MongoDbContext.cs",
@@ -601,7 +618,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "TaskType.cs",
               "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgents.Core\\Entities\\TaskType.cs",
               "RelativeDocumentMoniker": "IAgents.Core\\Entities\\TaskType.cs",
@@ -612,7 +629,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "IAgent.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgents.Infra\\IAgent.Infrastructure.csproj",
               "RelativeDocumentMoniker": "IAgents.Infra\\IAgent.Infrastructure.csproj",
@@ -623,7 +640,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "Job.cs",
               "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgents.Core\\Entities\\Job.cs",
               "RelativeDocumentMoniker": "IAgents.Core\\Entities\\Job.cs",
@@ -634,7 +651,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "JobType.cs",
               "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgents.Core\\Enums\\JobType.cs",
               "RelativeDocumentMoniker": "IAgents.Core\\Enums\\JobType.cs",
@@ -645,7 +662,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "Experience.cs",
               "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgents.Core\\Enums\\Experience.cs",
               "RelativeDocumentMoniker": "IAgents.Core\\Enums\\Experience.cs",
@@ -656,7 +673,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "Agent.cs",
               "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgents.Core\\Entities\\Agent.cs",
               "RelativeDocumentMoniker": "IAgents.Core\\Entities\\Agent.cs",
@@ -667,7 +684,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "AgentProvider.cs",
               "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgents.Core\\Enums\\AgentProvider.cs",
               "RelativeDocumentMoniker": "IAgents.Core\\Enums\\AgentProvider.cs",
@@ -678,7 +695,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "AgentStatus.cs",
               "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgents.Core\\Enums\\AgentStatus.cs",
               "RelativeDocumentMoniker": "IAgents.Core\\Enums\\AgentStatus.cs",
@@ -689,7 +706,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "AgentsController.cs",
               "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent\\Controllers\\AgentsController.cs",
               "RelativeDocumentMoniker": "IAgent\\Controllers\\AgentsController.cs",
