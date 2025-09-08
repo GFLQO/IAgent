@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2FCCAC91-ACEF-4014-BA6F-DF906E398824}|IAgent.API\\IAgent.API.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{2FCCAC91-ACEF-4014-BA6F-DF906E398824}|IAgent.API\\IAgent.API.csproj|solutionrelative:iagent.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{E2D69E68-DD06-4A12-ADD6-A5C344C04796}|Solution Items{E2D69E68-DD06-4A12-ADD6-A5C344C04796}|C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E2D69E68-DD06-4A12-ADD6-A5C344C04796}|Solution Items{E2D69E68-DD06-4A12-ADD6-A5C344C04796}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7DC26895-BFD2-4BFE-BABF-163FB2E6E933}|Billing.API\\Billing.API.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\billing.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{7DC26895-BFD2-4BFE-BABF-163FB2E6E933}|Billing.API\\Billing.API.csproj|solutionrelative:billing.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D69E68-DD06-4A12-ADD6-A5C344C04796}|Solution Items{E2D69E68-DD06-4A12-ADD6-A5C344C04796}|C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{E2D69E68-DD06-4A12-ADD6-A5C344C04796}|Solution Items{E2D69E68-DD06-4A12-ADD6-A5C344C04796}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{2FCCAC91-ACEF-4014-BA6F-DF906E398824}|IAgent.API\\IAgent.API.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2FCCAC91-ACEF-4014-BA6F-DF906E398824}|IAgent.API\\IAgent.API.csproj|solutionrelative:iagent.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EAF4A479-A03A-4DDF-8EE0-273A1FF2B92E}|IAgent.Infra\\IAgent.Infra.csproj|c:\\users\\gfalq\\desktop\\schoolos\\iagents_net\\iagent\\iagent.infra\\eventbus\\kafkaeventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -192,7 +192,7 @@
               "RelativeDocumentMoniker": "Billing.API\\Dockerfile",
               "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\Billing.API\\Dockerfile",
               "RelativeToolTip": "Billing.API\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-08-31T16:47:10.102Z",
               "EditorCaption": ""
@@ -200,12 +200,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-07-15T15:02:56.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.API\\Dockerfile",
               "RelativeDocumentMoniker": "IAgent.API\\Dockerfile",
               "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\IAgent.API\\Dockerfile",
               "RelativeToolTip": "IAgent.API\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-07-15T14:38:25.612Z",
               "EditorCaption": ""
@@ -220,8 +233,7 @@
               "RelativeToolTip": "IAgent.Infra\\EventBus\\KafkaEventBus.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAA5wDQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T16:01:06.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T16:01:06.484Z"
             },
             {
               "$type": "Document",
@@ -233,8 +245,7 @@
               "RelativeToolTip": "IAgent.API\\Controllers\\AgentsController.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAzwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T15:16:59.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T15:16:59.516Z"
             },
             {
               "$type": "Document",
@@ -246,21 +257,7 @@
               "RelativeToolTip": "IAgent.Application\\Abstractions\\Bus\\IEventBus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T15:59:41.31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "docker-compose.yml",
-              "DocumentMoniker": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\docker-compose.yml",
-              "RelativeDocumentMoniker": "docker-compose.yml",
-              "ToolTip": "C:\\Users\\gfalq\\Desktop\\SchoolOs\\IAgents_NET\\IAgent\\docker-compose.yml",
-              "RelativeToolTip": "docker-compose.yml",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAACkAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-07-15T15:02:56.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T15:59:41.31Z"
             },
             {
               "$type": "Document",
@@ -272,8 +269,7 @@
               "RelativeToolTip": "IAgent.Domain\\Events\\Agents\\AgentCreatedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T10:17:29.372Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T10:17:29.372Z"
             },
             {
               "$type": "Document",
@@ -285,8 +281,7 @@
               "RelativeToolTip": "IAgent.API\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAzwBUAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T21:56:11.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T21:56:11.848Z"
             },
             {
               "$type": "Document",
@@ -298,8 +293,7 @@
               "RelativeToolTip": "IAgent.Application\\Dtos\\RegistrationDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T09:42:31.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T09:42:31.093Z"
             },
             {
               "$type": "Document",
@@ -311,8 +305,7 @@
               "RelativeToolTip": "IAgent.Application\\Abstractions\\IAgentService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T15:23:59.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T15:23:59.409Z"
             },
             {
               "$type": "Document",
@@ -324,8 +317,7 @@
               "RelativeToolTip": "IAgent.Infra\\Repositories\\AgentRepository.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAgwBkAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T13:23:40.166Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T13:23:40.166Z"
             },
             {
               "$type": "Document",
@@ -337,8 +329,7 @@
               "RelativeToolTip": "IAgent.Application\\Abstractions\\Repositories\\IAgentRepository.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAuwAwAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T12:48:14.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T12:48:14.733Z"
             },
             {
               "$type": "Document",
@@ -350,8 +341,7 @@
               "RelativeToolTip": "IAgent.Application\\UseCases\\Agents\\Queries\\GetAgentByIdQueryHandler.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T15:42:46.469Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T15:42:46.469Z"
             },
             {
               "$type": "Document",
@@ -363,8 +353,7 @@
               "RelativeToolTip": "IAgent.Application\\UseCases\\Agents\\Commands\\Create\\CreateAgentHandler.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAIBJwBsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T09:30:05.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T09:30:05.414Z"
             },
             {
               "$type": "Document",
@@ -376,8 +365,7 @@
               "RelativeToolTip": "IAgent.Domain\\ValueObjects\\AgentConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T15:16:49.438Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T15:16:49.438Z"
             },
             {
               "$type": "Document",
@@ -389,8 +377,7 @@
               "RelativeToolTip": "IAgent.Application\\UseCases\\Agents\\Queries\\GetAgentByIdQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T09:30:24.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T09:30:24.145Z"
             },
             {
               "$type": "Document",
@@ -402,8 +389,7 @@
               "RelativeToolTip": "IAgent.Domain\\ValueObjects\\Money.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAxwBcAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T14:31:15.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T14:31:15.014Z"
             },
             {
               "$type": "Document",
@@ -415,8 +401,7 @@
               "RelativeToolTip": "IAgent.Domain\\ValueObjects\\Email.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T14:32:51.457Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T14:32:51.457Z"
             },
             {
               "$type": "Document",
@@ -428,8 +413,7 @@
               "RelativeToolTip": "IAgent.Application\\UseCases\\Agents\\Commands\\Create\\CreateAgentCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T09:29:56.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T09:29:56.059Z"
             },
             {
               "$type": "Document",
@@ -441,8 +425,7 @@
               "RelativeToolTip": "IAgent.Domain\\Entities\\Agent.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAawCMAAACBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T12:57:11.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T12:57:11.678Z"
             },
             {
               "$type": "Document",
@@ -454,8 +437,7 @@
               "RelativeToolTip": "IAgent.Application\\Dtos\\AgentDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T12:51:03.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T12:51:03.511Z"
             },
             {
               "$type": "Document",
@@ -467,8 +449,7 @@
               "RelativeToolTip": "IAgent.Infra\\Contexts\\MongoContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T14:48:25.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T14:48:25.272Z"
             },
             {
               "$type": "Document",
@@ -480,8 +461,7 @@
               "RelativeToolTip": "IAgent.API\\Middleware\\AuthMiddleware.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAYwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T09:46:42.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T09:46:42.018Z"
             },
             {
               "$type": "Document",
@@ -493,8 +473,7 @@
               "RelativeToolTip": "IAgent.Infra\\CollectionService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAIBJwBUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T13:45:30.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T13:45:30.986Z"
             },
             {
               "$type": "Document",
@@ -506,8 +485,7 @@
               "RelativeToolTip": "IAgent.Domain\\Enums\\AgentProvider.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T08:00:48.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T08:00:48.065Z"
             },
             {
               "$type": "Document",
@@ -519,8 +497,7 @@
               "RelativeToolTip": "IAgent.Domain\\Entities\\Job.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T12:59:00.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T12:59:00.561Z"
             },
             {
               "$type": "Document",
@@ -532,8 +509,7 @@
               "RelativeToolTip": "IAgent.API\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAIBZwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T14:37:19.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T14:37:19.723Z"
             },
             {
               "$type": "Document",
@@ -545,8 +521,7 @@
               "RelativeToolTip": "IAgent.API\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-15T15:13:24.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T15:13:24.396Z"
             },
             {
               "$type": "Document",
@@ -558,8 +533,7 @@
               "RelativeToolTip": "IAgent.API\\appsettings.Local.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-15T15:13:16.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T15:13:16.539Z"
             },
             {
               "$type": "Document",
