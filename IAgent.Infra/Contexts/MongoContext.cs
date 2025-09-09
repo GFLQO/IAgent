@@ -1,5 +1,6 @@
 ﻿using MongoDB.Driver;
 using IAgent.Domain.Entities;
+using IAgent.Infra.Outbox.Models;
 
 namespace IAgent.Infra;
 
@@ -21,4 +22,7 @@ public class MongoContext
 
     public IMongoCollection<Agent> Agents =>
         _database.GetCollection<Agent>("Agents");
+
+    public IMongoCollection<OutboxMessage> OutboxMessages =>
+        _database.GetCollection<OutboxMessage>("OutboxMessages");
 }

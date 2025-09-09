@@ -1,3 +1,4 @@
+using IAgent.Application.Mapping;
 using IAgent.Infra;
 using IAgent.Infra.Extensions;
 using Microsoft.OpenApi.Models;
@@ -34,6 +35,10 @@ builder.Services.AddSwaggerGen(c =>
 });
 
 builder.Services.AddIAgentInfrastructure(builder.Configuration);
+builder.Services.AddAutoMapper(cfg =>
+{
+    cfg.AddProfile<MappingProfile>();
+});
 
 var app = builder.Build();
 
@@ -42,6 +47,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
 
 app.UseMiddleware<AuthMiddleware>();
 

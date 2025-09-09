@@ -1,8 +1,11 @@
 ﻿using IAgent.Application.Abstractions.Bus;
+using IAgent.Application.UseCases.Agents.Commands.Create;
 using IAgent.Domain.Entities;
 using IAgent.Domain.Events.Agents;
+using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace IAgent.API.Controllers
@@ -12,9 +15,11 @@ namespace IAgent.API.Controllers
     public class AgentController : ControllerBase
     {
         private readonly IEventPublisher _publisher;
-        public AgentController(IEventPublisher publisher) 
+        private readonly IMediator _mediator;
+        public AgentController(IEventPublisher publisher, IMediator mediator)
         {
             _publisher = publisher;
+            _mediator = mediator;
         }
 
         [HttpGet]
@@ -22,12 +27,14 @@ namespace IAgent.API.Controllers
           => Ok(new List<Agent>());
 
         [HttpPost]
-        public async Task<ActionResult<Agent>> Create([FromBody] Agent agent)
+        public async Task<ActionResult<Agent>> Create([FromBody] CreateAgentCommand command, CancellationToken cancellationToken)
         {
-            var result =  CreatedAtAction(nameof(GetById), new { id = agent.Id }, agent);
+            if (command == null)
+                return BadRequest();
 
-            await _publisher.PublishAsync("agent-created", new AgentCreatedEvent(agent.Id, agent.Name, DateTime.UtcNow), new CancellationToken());
-            return result;
+            var result = await _mediator.Send(command);
+
+            return Ok(result);
         }
 
         [HttpGet("{id}")]
